@@ -1,0 +1,3 @@
+[submodule "lib/rabbit"]
+	path = lib/rabbit
+	url = https://github.com/demurzasty/rabbit
